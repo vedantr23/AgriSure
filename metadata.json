@@ -1,0 +1,8 @@
+{
+  "name": "AgriSure - Oilseeds Hedging",
+  "description": "An MVP for AgriSure, a platform for oilseed hedging and price risk management for farmers. It features AI-driven price forecasts, simulated trading, and educational content to empower users in managing market volatility.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}
